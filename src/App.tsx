@@ -10,7 +10,7 @@ function App() {
         className="button"
         onClick={() => enqueueSnackbar("Success", { variant: "success" })}
       >
-        Succes button
+        Success button
       </button>
       <button
         className="button"
